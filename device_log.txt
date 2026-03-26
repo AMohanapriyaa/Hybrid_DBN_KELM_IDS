@@ -1,0 +1,253 @@
+2026-03-08 22:49:38 | Reconnected    | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-08 23:01:35 | Reconnected    | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-08 23:03:17 | New Device     | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-08 23:04:01 | Disconnected   | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-08 23:06:19 | Reconnected    | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-08 23:16:07 | Reconnected    | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-08 23:16:08 | Reconnected    | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-08 23:16:24 | Disconnected   | 10.95.1.175      | 40:EC:99:D1:8B:8E | Unknown | Device
+2026-03-08 23:16:24 | Disconnected   | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-08 23:29:21 | New Device     | 10.95.1.13       | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Device
+2026-03-08 23:29:26 | New Device     | 10.95.1.105      | 6E:C0:F3:8C:C9:BE | Unknown Vendor | Device
+2026-03-08 23:30:27 | New Device     | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-08 23:31:15 | New Device     | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-09 00:07:13 | New Device     | 10.95.1.13       | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Device
+2026-03-09 00:07:18 | New Device     | 10.95.1.105      | 6E:C0:F3:8C:C9:BE | Unknown Vendor | Device
+2026-03-09 00:08:38 | New Device     | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-09 00:08:39 | New Device     | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 00:08:59 | Disconnected   | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-09 03:21:44 | Reconnected    | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Unknown Device
+2026-03-09 03:21:46 | Reconnected    | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 03:22:33 | Disconnected   | 10.95.1.138      | 0E:E8:88:EC:CC:54 | Unknown Vendor | Device
+2026-03-09 03:22:54 | Disconnected   | 10.95.1.175      | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 03:42:06 | Disconnected   | 10.95.1.13       | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Device
+2026-03-09 03:42:06 | Disconnected   | 10.95.1.105      | 6E:C0:F3:8C:C9:BE | Unknown Vendor | Device
+2026-03-09 03:47:00 | New Device     | 192.168.43.1     | C6:06:8A:E2:50:C1 | Unknown Vendor | Router / Gateway
+2026-03-09 04:35:28 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 04:35:47 | Disconnected   | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 04:36:07 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 04:52:15 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 04:52:59 | New Device     | 192.168.43.110   | 72:F1:D1:87:D0:E3 | Unknown Vendor | Unknown Device
+2026-03-09 05:14:06 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 05:14:30 | Reconnected    | 192.168.43.110   | 72:F1:D1:87:D0:E3 | Unknown Vendor | Unknown Device
+2026-03-09 05:14:56 | Disconnected   | 192.168.43.110   | 72:F1:D1:87:D0:E3 | Unknown Vendor | Unknown Device
+2026-03-09 05:15:15 | Disconnected   | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 08:15:30 | New Device     | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:15:45 | Disconnected   | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:16:18 | Reconnected    | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:16:33 | Disconnected   | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:16:52 | Reconnected    | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:21:38 | Disconnected   | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:21:53 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 08:21:58 | Reconnected    | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:23:32 | Disconnected   | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:24:02 | Disconnected   | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 08:24:21 | Reconnected    | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:25:14 | Disconnected   | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 08:25:49 | Reconnected    | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 09:03:57 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:06:48 | Disconnected   | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 09:06:48 | Disconnected   | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:07:02 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:07:07 | Reconnected    | 10.38.159.221    | F6:86:06:B7:B6:E4 | Unknown Vendor | Router / Gateway
+2026-03-09 09:30:53 | New Device     | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:31:06 | Disconnected   | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:31:21 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:31:26 | Reconnected    | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:31:58 | Disconnected   | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:31:58 | Disconnected   | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:32:12 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:32:26 | Disconnected   | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:32:40 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:32:45 | Reconnected    | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:33:23 | Disconnected   | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:33:36 | Disconnected   | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:33:50 | Reconnected    | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:33:55 | Reconnected    | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:34:19 | Disconnected   | 10.38.159.175    | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:34:19 | Disconnected   | 10.38.159.221    | 4A:2B:62:F5:14:53 | Unknown Vendor | Router / Gateway
+2026-03-09 09:34:33 | Disconnected   | 10.38.159.13     | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Device
+2026-03-09 09:40:50 | Reconnected    | 192.168.43.110   | 72:F1:D1:87:D0:E3 | Unknown Vendor | Unknown Device
+2026-03-09 09:41:09 | Disconnected   | 192.168.43.110   | 72:F1:D1:87:D0:E3 | Unknown Vendor | Unknown Device
+2026-03-09 09:48:44 | Disconnected   | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 09:49:03 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 10:09:20 | New Device     | 192.168.43.1     | C6:06:8A:E2:50:C1 | Unknown Vendor | Router / Gateway
+2026-03-09 10:09:20 | New Device     | 192.168.43.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-09 10:09:21 | New Device     | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 10:15:22 | Disconnected   | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-09 10:15:43 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:20:21 | New Device     | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:21:39 | Disconnected   | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:21:39 | Disconnected   | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:22:08 | Reconnected    | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:22:23 | Disconnected   | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:22:42 | Reconnected    | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:22:43 | Reconnected    | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:22:56 | Disconnected   | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:22:56 | Disconnected   | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:24:54 | Reconnected    | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:25:08 | Reconnected    | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:25:08 | Disconnected   | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:25:22 | Disconnected   | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:25:37 | Reconnected    | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:25:50 | Disconnected   | 10.201.152.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:26:41 | Reconnected    | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:26:55 | Disconnected   | 10.201.152.35    | E2:07:DB:A3:E0:AC | Unknown Vendor | Router / Gateway
+2026-03-10 09:26:55 | Disconnected   | 10.201.152.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-10 09:29:00 | Reconnected    | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 09:45:48 | Disconnected   | 192.168.43.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-10 10:48:53 | New Device     | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-10 10:49:48 | Disconnected   | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-10 10:50:08 | Reconnected    | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-10 10:57:32 | Disconnected   | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-10 10:57:54 | Reconnected    | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-10 11:08:05 | Disconnected   | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-10 11:08:05 | Disconnected   | 10.201.152.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-10 11:08:19 | Reconnected    | 10.201.152.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-10 11:08:24 | Reconnected    | 10.201.152.35    | F6:BF:A9:E2:15:5A | Unknown Vendor | Router / Gateway
+2026-03-11 03:39:35 | New Device     | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 03:43:36 | Disconnected   | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 03:43:55 | Reconnected    | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 04:26:24 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:26:43 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:26:43 | Disconnected   | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 04:28:19 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:28:24 | Reconnected    | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 04:28:57 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:28:57 | Disconnected   | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 04:29:29 | Reconnected    | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 04:30:01 | Disconnected   | 10.176.250.235   | 52:79:3B:EB:6B:8F | Unknown Vendor | Router / Gateway
+2026-03-11 04:30:29 | Disconnected   | 10.176.250.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-11 04:31:29 | New Device     | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:31:43 | Reconnected    | 10.176.250.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-11 04:31:43 | Disconnected   | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:31:58 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:32:17 | Reconnected    | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:32:17 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:32:50 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:33:13 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:33:27 | Disconnected   | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:33:55 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:34:00 | Reconnected    | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:34:13 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:34:13 | Disconnected   | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:34:45 | Reconnected    | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:34:59 | Disconnected   | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:35:13 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:35:33 | Reconnected    | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 04:35:46 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-11 04:35:46 | Disconnected   | 10.176.250.235   | FA:C2:64:81:EF:2E | Unknown Vendor | Router / Gateway
+2026-03-11 11:21:28 | New Device     | 10.176.250.13    | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-11 11:21:47 | New Device     | 10.176.250.235   | 86:32:02:F3:0B:37 | Unknown Vendor | Router / Gateway
+2026-03-11 11:22:00 | Disconnected   | 10.176.250.235   | 86:32:02:F3:0B:37 | Unknown Vendor | Router / Gateway
+2026-03-11 11:22:32 | Reconnected    | 10.176.250.235   | 86:32:02:F3:0B:37 | Unknown Vendor | Router / Gateway
+2026-03-11 11:22:46 | Disconnected   | 10.176.250.235   | 86:32:02:F3:0B:37 | Unknown Vendor | Router / Gateway
+2026-03-11 11:23:04 | Reconnected    | 10.176.250.235   | 86:32:02:F3:0B:37 | Unknown Vendor | Router / Gateway
+2026-03-11 11:23:36 | Disconnected   | 10.176.250.235   | 86:32:02:F3:0B:37 | Unknown Vendor | Router / Gateway
+2026-03-12 21:44:57 | New Device     | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:45:32 | New Device     | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:46:35 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:46:49 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:47:53 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:48:26 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:48:45 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:49:00 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:49:39 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:49:39 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:49:53 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:49:58 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:50:12 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:50:12 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:50:41 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:51:00 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:51:00 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:51:14 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:51:53 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 21:51:53 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 21:52:07 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:03:29 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:03:58 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:04:03 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:04:37 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:04:37 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:05:07 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:05:21 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:05:41 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:05:56 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:06:20 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:06:35 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:28:59 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:29:13 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:29:47 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:30:01 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:30:34 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:30:34 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:30:48 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:31:26 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:31:53 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:32:40 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:32:54 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:33:21 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:33:26 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:33:40 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:33:59 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:34:13 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:34:13 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:37:58 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:38:12 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:39:07 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:39:12 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:39:30 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:39:44 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:40:03 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:41:30 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:41:49 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:42:40 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:42:58 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:43:30 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:43:44 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:44:13 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:45:27 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:45:41 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:45:41 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:45:55 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:46:09 | Reconnected    | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-12 22:46:14 | Reconnected    | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:46:47 | Disconnected   | 10.176.250.235   | 62:D9:8D:6E:F7:89 | Unknown Vendor | Router / Gateway
+2026-03-12 22:46:47 | Disconnected   | 10.176.250.175   | 40:EC:99:D1:8B:8E | Intel Corporate | Laptop / PC
+2026-03-20 23:14:05 | New Device     | 10.44.80.118     | C6:11:16:DC:8D:DE | Unknown Vendor | Router / Gateway
+2026-03-20 23:14:05 | New Device     | 10.44.80.203     | 08:F9:7E:B5:A8:EF | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:24:57 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:25:23 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:26:01 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:26:48 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:27:04 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:27:30 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:27:47 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:28:07 | Disconnected   | 10.44.80.118     | C6:11:16:DC:8D:DE | Unknown Vendor | Router / Gateway
+2026-03-20 23:28:07 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:28:28 | Reconnected    | 10.44.80.118     | C6:11:16:DC:8D:DE | Unknown Vendor | Router / Gateway
+2026-03-20 23:29:25 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:29:50 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:34:26 | Disconnected   | 10.44.80.118     | C6:11:16:DC:8D:DE | Unknown Vendor | Router / Gateway
+2026-03-20 23:34:44 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:34:49 | Reconnected    | 10.44.80.118     | C6:11:16:DC:8D:DE | Unknown Vendor | Router / Gateway
+2026-03-20 23:36:58 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:37:15 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:37:51 | New Device     | 10.44.80.118     | 5E:74:BE:6F:F9:04 | Unknown Vendor | Router / Gateway
+2026-03-20 23:37:51 | Disconnected   | 10.44.80.118     | C6:11:16:DC:8D:DE | Unknown Vendor | Router / Gateway
+2026-03-20 23:38:26 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:38:26 | Disconnected   | 10.44.80.118     | 5E:74:BE:6F:F9:04 | Unknown Vendor | Router / Gateway
+2026-03-20 23:39:13 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:39:18 | Reconnected    | 10.44.80.118     | 5E:74:BE:6F:F9:04 | Unknown Vendor | Router / Gateway
+2026-03-20 23:39:49 | New Device     | 10.44.80.118     | 5A:2B:33:2E:B7:DC | Unknown Vendor | Router / Gateway
+2026-03-20 23:39:49 | Disconnected   | 10.44.80.203     | 08:F9:7E:B5:A8:EF | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:39:49 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:39:49 | Disconnected   | 10.44.80.118     | 5E:74:BE:6F:F9:04 | Unknown Vendor | Router / Gateway
+2026-03-20 23:40:30 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Unknown Device
+2026-03-20 23:42:08 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:42:08 | Disconnected   | 10.44.80.118     | 5A:2B:33:2E:B7:DC | Unknown Vendor | Router / Gateway
+2026-03-20 23:42:27 | Reconnected    | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Unknown Device
+2026-03-20 23:42:33 | Reconnected    | 10.44.80.118     | 5A:2B:33:2E:B7:DC | Unknown Vendor | Router / Gateway
+2026-03-20 23:42:54 | Disconnected   | 10.44.80.13      | 08:F9:7E:B5:D2:07 | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
+2026-03-20 23:43:54 | Reconnected    | 10.44.80.204     | 08:F9:7E:B5:A8:EF | CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD. | Laptop / PC
